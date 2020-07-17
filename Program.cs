@@ -19,13 +19,13 @@ namespace Peek_method_in_Stack
 
             stack.Print();
 
-            Console.WriteLine("After Peek");
+            object peekValue = stack.Peek();
 
-            object num = stack.Peek();
+            Console.WriteLine("After Peek");
             stack.Print();
 
             Console.Write("Peek value: ");
-            Console.WriteLine(num);
+            Console.WriteLine(peekValue);
 
         }
     }
