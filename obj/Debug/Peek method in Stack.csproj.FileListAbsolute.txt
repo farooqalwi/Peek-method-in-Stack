@@ -1,0 +1,7 @@
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\bin\Debug\Peek method in Stack.exe.config
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\bin\Debug\Peek method in Stack.exe
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\bin\Debug\Peek method in Stack.pdb
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\obj\Debug\Peek method in Stack.csprojAssemblyReference.cache
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\obj\Debug\Peek method in Stack.csproj.CoreCompileInputs.cache
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\obj\Debug\Peek method in Stack.exe
+D:\CSSE Course\CSSE-III\DS\Assignments\Peek method in Stack\Peek method in Stack\obj\Debug\Peek method in Stack.pdb
